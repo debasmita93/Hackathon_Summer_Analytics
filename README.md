@@ -1,2 +1,2 @@
 # Hackathon_Summer_Analytics
-This is the first hackathon of Summer Analytics conducted by Consulting & Analytics Club, IIT Guwahati. 
+This repository contains the Jupyter notebook of the first hackathon of Summer Analytics conducted by Consulting & Analytics Club, IIT Guwahati. 
